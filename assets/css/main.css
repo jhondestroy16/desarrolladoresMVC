@@ -1,0 +1,35 @@
+.table, form{
+    border: black 5px solid;
+    border-radius: 15px;
+    box-shadow: 0 3px 6px rgb(0,0,0,0.16), 0 3px 6px rgb(0,0,0,0.23);
+    padding: 1rem;
+    background-color: #529EA9;
+    
+}
+.texto{
+  text-align: center;
+}
+
+.pie-pagina{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.logo{
+    width: 2rem;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
