@@ -36,10 +36,8 @@
                             Proyectos
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="dropProyectos">
-                            <li><a class="dropdown-item" href="index.php?controlador=proyecto&accion=index">Listar</a>
-                            </li>
-                            <li><a class="dropdown-item" href="index.php?controlador=proyecto&accion=insert">Crear
-                                    nuevo</a></li>
+                            <li><a class="dropdown-item" href="index.php?controlador=proyecto&accion=index">Listar</a></li>
+                            <li><a class="dropdown-item" href="index.php?controlador=proyecto&accion=insert">Crear nuevo</a></li>
                         </ul>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="dropDesarrolladore" role="button"
